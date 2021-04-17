@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+.convocatoria-ingreso{
+    display: flex;
+    position:absolute;
+    justify-content:space-between;
+    align-items: baseline;
+    height: 100%;
+    
+
+}
+
+
+.convocatoria-ingreso-card {
+    width: 50%;
+    margin: 15%;
+
+}
+
+.convocatoria-ingreso img{
+width: 300px;
+
+}
+
+.convocatoria-ingreso-card h1{
+    color: #fbc531;
+    margin-bottom: 30px;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.convocatoria-ingreso-card p{
+
+    color: rgb(255, 255, 255);
+
+}
+
+
+.carousel-indicators li {
+
+    background-color: #0000ff;
+}
+
+.carousel-indicators .active {
+
+    background-color: #e7760d;
+}
+
+.carousel-control-prev span{
+    background-color: black;
+}
+
+.carousel-control-next span{
+    background-color: black;
+}
+.cortina{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 75%;
+    position: absolute;
+
+}
+
+

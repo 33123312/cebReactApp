@@ -1,0 +1,28 @@
+.mision-vision{
+    padding: 30px 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.mision-vision h2{
+    margin-bottom: 30px;
+}
+
+.mision-vision div{
+    padding: 40px 20px;
+    width: 45%;
+    border-radius: 1px;
+}
+
+
+
+.quienes{
+    margin-top:30px;
+    background-color: #3949ab;
+    padding:30px 10%;
+    color: white;
+}
+
+.quienes h1{
+    margin-bottom: 30px;
+}

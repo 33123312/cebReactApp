@@ -1,0 +1,113 @@
+
+
+/*cuerpo=====================================================*/
+
+.anu form{
+    padding:15px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 5px 10px;
+}
+
+.anu form input{
+    margin: 5px 0;
+}
+
+.generic-anu{
+    font-size:14;
+    color:#454444;
+    background:#eef5ff;
+    border-radius: 3px;
+    overflow:hidden;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 15px;
+
+}
+
+ .cuerpo{
+     margin: 0 1% 0 0;
+     width:76%;
+     float:left;
+     color:#454444;
+     padding:1.5%; 
+     background:white;
+     border-radius: 5PX;
+}
+
+.p {
+    text-align: center;
+    color:white;
+    background:#2C4C66;
+    border-radius: 2px 2px 0px 0px;
+    padding: 5px;
+    font-size: 17;
+}	
+
+/*boton calif=====================================================*/
+
+.p-btn{
+    z-index:1;
+    background:#336699;
+    padding:5px 10px;
+    border-radius:5px;
+    box-shadow: 0px 2px 0 #09337b;
+    border:none;
+    color:white;
+    transition:all 0.3s;
+    text-align:center;
+    font-family:arial;
+    position:relative;
+    top:0;
+    display: inline-block;
+}
+
+.p-btn:hover{box-shadow:0px 2px 0 #9d5004;background:#EC6D14;}
+
+.p-btn:active{box-shadow:none;top:2px;}
+
+
+
+ .presentacion-section{
+    display: flex;
+    background-color: white;
+ }
+
+ .widgets{
+    display: flex;
+    flex-direction: column;
+    width: 25.5%;
+    margin-left: 2%;
+ }
+
+ .cuerpo{
+     width: 100%;
+ }
+
+ .static-Info{
+    width: 74.5%;
+
+ }
+
+ .titulo-presentacion{
+    margin-bottom: 40px;
+ }
+
+ .imgInicio{
+    
+    margin: auto;
+    margin-top:30px;
+ }
+
+ .cosulta-calif input{
+    border:1xp solid #5e92f3;
+
+ }
+
+ .cosulta-calif p{
+    margin-bottom: 0;
+    margin-top:1rem;
+
+ }

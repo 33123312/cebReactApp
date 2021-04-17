@@ -1,0 +1,47 @@
+
+
+.transporte-tables table{
+    BACKGROUND:#E6E6E6;
+    list-style:none;
+    border-collapse:collapse;
+    color:#454444;
+    text-align: center;
+    border-radius: 3px;
+    
+    margin-bottom: 30px;
+}
+
+.transporte-tables table li{
+    text-align: left;
+    font-weight: 200;
+    list-style: none;
+    margin-left: -40px;
+}
+
+.transporte-tables table th{
+    padding: 5px 10px;
+}
+
+.transporte-tables table th{
+    border: 1px solid rgb(204, 204, 204);
+
+}
+
+.transporte-tables{
+    margin: auto;
+
+}
+
+.topu{
+    color:white;
+    background:#1D75CD;
+}
+
+.kk{
+    background:#2C4C66;
+    color:white;
+}
+
+.b{
+    BACKGROUND:WHITE;
+}
