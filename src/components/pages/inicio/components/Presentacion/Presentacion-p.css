@@ -1,0 +1,10 @@
+@media screen and (max-width : 770px)
+{
+    .widgets, .static-Info{
+
+        width: 100%;
+        
+     }
+    
+
+}

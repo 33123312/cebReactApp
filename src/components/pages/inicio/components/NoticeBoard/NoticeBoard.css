@@ -6,25 +6,49 @@
     justify-content:space-between;
     align-items: baseline;
     height: 100%;
-    
 
 }
-
 
 .convocatoria-ingreso-card {
-    width: 50%;
-    margin: 15%;
+    text-overflow: ellipsis;
+    
+}
+
+.convocatoria-ingreso{
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top:5%;
+}
+
+
+@media screen and (max-width : 770px)
+{
+    .noticeBoard_section{
+        padding:0px;
+    }
+
+    .convocatoria-ingreso-card h2{
+    font-size: 1rem;
+        
+    }
+
+    .convocatoria-ingreso-card p{
+        font-size: 0.6rem;
+            
+        }
+
+    .convocatoria-ingreso-card a{
+        font-size: 0.8rem;
+            
+        }
+
 
 }
 
-.convocatoria-ingreso img{
-width: 300px;
 
-}
-
-.convocatoria-ingreso-card h1{
+.convocatoria-ingreso-card h2{
     color: #fbc531;
-    margin-bottom: 30px;
+    margin-bottom: 2%;
     text-align: left;
     font-family: 'Roboto', sans-serif;
     
@@ -55,11 +79,11 @@ width: 300px;
     background-color: black;
 }
 .cortina{
-    height: 100%;
-    width: 100%;
-    background-color: black;
-    opacity: 75%;
-    position: absolute;
+height: 100%;
+width: 100%;
+background-color: black;
+opacity: 0.75;
+position: absolute;
 
 }
 

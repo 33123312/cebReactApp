@@ -13,14 +13,14 @@ function Top() {
     <header className="Top">
 
         <Navbar expand="lg" className= "contNav py-2 " bg="light" >
-        <Navbar.Brand href="#home">
-          <img src={logoCeb} className="logoCeb" alt= "logo"></img>
+        <Navbar.Brand href="/">
+          <img src={logoCeb} className="logoCeb" alt= "logo" />
         </Navbar.Brand>
 
-        <Navbar.Toggle aria-controls="basic-navbar-nav" p-x  />
+        <Navbar.Toggle aria-controls="responsive-navbar-nav" p-x  />
         <Navbar.Collapse id="basic-navbar-nav">
              <Nav className="ml-auto">
-              <Nav.Link href="/" className="text-primary" ><i class="icon icon-home" />&nbsp; Inicio</Nav.Link>
+              <Nav.Link href="/" className="text-primary" ><i class="icon icon-home" style={{marginRight:5}} />Inicio</Nav.Link>
               <NavDropdown title="Nosotros" id="basic-nav-dropdown">
                 <NavDropdown.Item href="/mision-vision">Identidad</NavDropdown.Item>
                 <NavDropdown.Item href="/historia">Historia</NavDropdown.Item>

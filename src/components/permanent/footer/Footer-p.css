@@ -1,0 +1,14 @@
+@media screen and (max-width : 770px)
+{
+    .links >div{
+
+        width: 100%;
+        
+     }
+    
+     footer>div{
+         width: 100%!important;
+     }
+
+
+}

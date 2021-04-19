@@ -27,16 +27,6 @@
 
 }
 
- .cuerpo{
-     margin: 0 1% 0 0;
-     width:76%;
-     float:left;
-     color:#454444;
-     padding:1.5%; 
-     background:white;
-     border-radius: 5PX;
-}
-
 .p {
     text-align: center;
     color:white;
@@ -64,30 +54,41 @@
     display: inline-block;
 }
 
-.p-btn:hover{box-shadow:0px 2px 0 #9d5004;background:#EC6D14;}
+.p-btn:hover{
+   box-shadow:0px 2px 0 #9d5004;
+   background:#EC6D14;}
 
-.p-btn:active{box-shadow:none;top:2px;}
+.p-btn:active{
+   box-shadow:none;
+   top:2px;}
 
 
 
  .presentacion-section{
     display: flex;
     background-color: white;
+    flex-wrap: wrap;
+
  }
+
+ .presentacion-section >div{
+    margin-bottom:30px ;
+
+ }
+
+ .cuerpo{
+   width: 100%;
+}
 
  .widgets{
     display: flex;
     flex-direction: column;
-    width: 25.5%;
-    margin-left: 2%;
- }
-
- .cuerpo{
-     width: 100%;
+    width: 25%;
  }
 
  .static-Info{
-    width: 74.5%;
+    width: 73%;
+    margin-right: 2%;
 
  }
 
@@ -97,12 +98,11 @@
 
  .imgInicio{
     
-    margin: auto;
     margin-top:30px;
  }
 
  .cosulta-calif input{
-    border:1xp solid #5e92f3;
+    border:1px solid #5e92f3;
 
  }
 

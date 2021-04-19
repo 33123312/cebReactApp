@@ -1,6 +1,7 @@
 {
   "name": "pagina",
   "version": "0.1.0",
+  "homepage": "https://www.ceb64.com/",
   "private": true,
   "proxy": "http://localhost:5000",
   "dependencies": {

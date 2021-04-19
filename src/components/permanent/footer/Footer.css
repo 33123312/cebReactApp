@@ -6,6 +6,7 @@ footer{
     padding: 60px 5%;
     background: #444c57;
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
 }
 
@@ -14,14 +15,15 @@ footer{
     border-top: 1px solid #b2becf;
     width: 50%;
     display: flex;
+    flex-wrap: wrap;
     
 }
 
 .links li{
     list-style: none;
+    color:  #848e9b!important;
 
 }
-
 
 .links ol{
     margin-left: -40px;
@@ -30,21 +32,18 @@ footer{
 
 .links div{
     margin-right: 40px;
+    
 }
 
 .links p{
     color: #b2becf ;
-    font-size: 12pt;
+    font-size: 1.2rem;
     font-family: 'Poppins', sans-serif;
 }
 
-.links a{
-    color:  #848e9b!important;
-}
 
 .links a:hover{
     color:  #789fcf!important;
-    font-size:12pt;
 }
 
 .ubi{
@@ -61,7 +60,7 @@ footer{
 
 .social-media{
     color: #b2becf ;
-    font-size: 12pt;
+    font-size: 1.2rem;
     font-family: 'Poppins', sans-serif;
 
 }
@@ -70,10 +69,3 @@ footer{
     width: 40px;
 
 }
-
-/*
-border-top: 1px solid #444c57;
-border-top: 1px solid #b2becf
-color:  #758294;
-color: #444c57 ;
-*/

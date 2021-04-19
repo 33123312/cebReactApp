@@ -1,5 +1,7 @@
 import React from 'react';
 import './Footer.css'
+import './Footer-p.css'
+
 import facebookIcon from './res/facebook.png'
 
 function Footer(){
@@ -17,13 +19,14 @@ function Footer(){
                     <div>
                         <p>Contáctanos</p>
                         <ol>
-                            <li><a>Teléfono: 639 472 98 28, 639 474 15 04 </a></li>
-                            <li><a>ceb64@dgb.email </a></li>
+                            <li>Teléfono: 639 472 98 28, 639 474 15 04 </li>
+                            <li>Correo: ceb64@dgb.email </li>
                         </ol> 
                     </div>
                 </div>
+
                 <div className="social-media">
-                    <p>Siguenos en nuestras redes</p>
+                    <p>Síguenos en nuestras redes</p>
                     <div><a href="https://www.facebook.com/CEB-64-Delicias-Oficial-118038293439048/">
                         <img src={facebookIcon} alt="faceIcon"/>
                     </a>

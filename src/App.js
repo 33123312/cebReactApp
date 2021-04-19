@@ -8,6 +8,7 @@ import Historia from './components/pages/historia/Historia';
 import Transporte from './components/pages/transporte/Transporte';
 import Ubicacion from './components/pages/ubicacion/Ubicacion';
 
+import './App-p.css';
 import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css"
 import{ BrowserRouter as Router,Switch,Route } from 'react-router-dom';
@@ -24,12 +25,6 @@ function App() {
     console.log(error)
 })
 
-
-  fetch('/apiPrueba')
-  .then(response => response)
-  .then(data => console.log(data)).catch(function(err) {
-    console.error(err);
-});
 
   return (
     <div className="App">
