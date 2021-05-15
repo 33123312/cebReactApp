@@ -13,13 +13,14 @@ function Footer(){
                     <div>
                         <p>Links Externos</p>
                         <ol>
-                            <li><a href="https://www.gob.mx/sep2 ">S.E.P</a></li>
+                            <li><a href="https://www.gob.mx/sep2 ">SEP</a></li>
+                            <li><a href="https://www.dgb.sep.gob.mx/ ">DGB</a></li>
                         </ol> 
                     </div>
                     <div>
                         <p>Contáctanos</p>
                         <ol>
-                            <li>Teléfono: 639 472 98 28, 639 474 15 04 </li>
+                            <li>Teléfono: 639-472-98-28, 639-132-13-96 </li>
                             <li>Correo: ceb64@dgb.email </li>
                         </ol> 
                     </div>

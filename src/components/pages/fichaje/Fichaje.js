@@ -20,19 +20,21 @@ function Fichaje(){
  
             <section class= "quienes-somos-section">
                 <h1>
-                    El Pedagógico listo para su entrega de fichas del 12 al 30 de
-                    abril.
+                    El Pedagógico continua con su entrega de
+                    fichas para el examen de admisión 2021.
+
                 </h1>
                 <div>
                     <p>
-                        El Centro de Estudios de Bachillerato 6/4 Cd. Delicias, mejor conocido como
-                        el Pedagógico, se encuentra listo para su entrega de fichas para el examen de
-                        admisión 2021.
+                        El Centro de Estudios de Bachillerato 6/4 Cd. Delicias, mejor conocido como el Pedagógico,
+                        continua con su entrega de fichas para el examen de admisión que se realizará el 25 de
+                        junio.
+
                     </p>
                     <p>
-                        Este año la solicitud de fichas se realizará preponderantemente <b>en línea</b> a
-                        partir del <b>12 de abril a través de la página www.ceb64.com</b> y los aspirantes
-                        que no cuenten con Internet podrán acudir al plantel a llenar su solicitud.
+                        La solicitud de fichas se realizará preponderantemente <b>en línea</b> a través de la página
+                        <b>www.ceb64.com</b> y los aspirantes que no cuenten con Internet podrán acudir al plantel a
+                        llenar su solicitud.
                     </p>
                     <p>
                         La mecánica es la siguiente: los aspirantes realizan su registro en línea y al día
@@ -41,7 +43,7 @@ function Fichaje(){
                         el examen de admisión. El costo de la ficha es de <b>120 pesos</b>. 
                     </p>
                     <p>
-                        El examen se llevará a cabo el <b>25 de junio a partir de las 7:30 de la mañana</b> .
+                        El examen se llevará a cabo el <b>25 de junio (horario por definir) </b> .
                         Cabe recordar que el año pasado el CEB 6/4 brindó a los aspirantes la
                         posibilidad de realizar su examen en línea o presencial, respetando todos los
                         protocolos aprobados por la autoridad educativa y de salud.

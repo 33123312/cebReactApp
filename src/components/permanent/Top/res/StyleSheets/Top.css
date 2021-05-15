@@ -19,16 +19,20 @@ header{
     margin-bottom: 50px;
 }
 
-nav a{
+
+
+
+.navbar-nav >div >a,
+.navbar-nav  >a{
+
     padding:10px 20px!important;
     font-family: 'Montserrat', sans-serif!important;
-}
-
-.dropdown-menu a{
-    color:black;
 
 }
-   
+
+.dropdown-item a{
+    color: black!important;
+}
 
 .icon-home{
     margin-left: 7px;
