@@ -7,6 +7,7 @@ import Footer from './components/permanent/footer/Footer';
 import Historia from './components/pages/historia/Historia';
 import Transporte from './components/pages/transporte/Transporte';
 import Ubicacion from './components/pages/ubicacion/Ubicacion';
+import Acuerdo286 from './components/pages/acuerdo286/Acuerdo286';
 
 import './App-p.css';
 import './App.css';
@@ -38,6 +39,7 @@ function App() {
               <Route path="/historia"  component={Historia}   />
               <Route path="/transporte"  component={Transporte}   />
               <Route path="/ubicacion"  component={Ubicacion}   />
+              <Route path="/acuerdo286"  component={Acuerdo286}   />
             </Switch>
           <Footer/>
         </div>

@@ -24,19 +24,17 @@ function Top() {
                 <Nav.Link href="/" className="text-primary" >Inicio</Nav.Link>
 
                 <NavDropdown title="Consultas" id="basic-nav-dropdown">
-
-                  <NavDropdown title="Calificaciones" id="basic-nav-dropdown">
-                  <NavDropdown.Item ><Link to="/">Boleta</Link></NavDropdown.Item>
                   <NavDropdown.Item href="https://docs.google.com/forms/d/e/1FAIpQLScwfcRbHA9dXHS8wiS70wKPGHAFT_VTpGwIN39cMabJhMDAdw/viewform" >
-                    <a>Constancias</a></NavDropdown.Item>
-
-                </NavDropdown>  
+                      <a>Constancias</a></NavDropdown.Item>
+                  <NavDropdown.Item ><Link to="/">Boleta</Link></NavDropdown.Item>
                 
               </NavDropdown>  
 
               <NavDropdown title="Información" id="basic-nav-dropdown">
                 <NavDropdown.Item ><Link to="/fichaje">Aspirantes</Link></NavDropdown.Item>
+                <NavDropdown.Item ><Link to="/capacitaciones">Capacitaciones</Link></NavDropdown.Item>
                 <NavDropdown.Item ><Link to="/transporte">Transporte</Link></NavDropdown.Item>
+                <NavDropdown.Item ><Link to="/acuerdo286">Acuerdo 286</Link></NavDropdown.Item>
               </NavDropdown>
       
                 <NavDropdown title="Nosotros" id="basic-nav-dropdown">

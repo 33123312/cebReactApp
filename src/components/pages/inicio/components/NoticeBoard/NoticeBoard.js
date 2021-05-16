@@ -3,6 +3,7 @@ import React from 'react';
 import Carousel from 'react-bootstrap/Carousel';
 import carouselImg2 from './images/imagen-banner2.jpg';
 import carouselImg1 from './images/imagen-banner1.jpg';
+import carouselImg3 from './images/imagen-banner3.jpg';
 import './NoticeBoard.css';
 
 function NoticeBoard() {
@@ -10,6 +11,27 @@ function NoticeBoard() {
     return (
     <section className="noticeBoard_section"> 
         <Carousel>
+
+            <Carousel.Item>
+                <div class="cortina"></div>
+                        <div class="convocatoria-ingreso" >
+                            <div class="convocatoria-ingreso-card">
+                                <h2> 
+                                    El Pedagógico continua con su entrega de fichas para el examen de admisión 2021
+
+                                </h2>
+                                <p>
+                                    Registra tu solicitud en línea y al día siguiente presentante en el plantel a recoger tu guía
+                                    de estudios impresa Para mayor información, comunícate al teléfono 6394729828 y vía
+                                    whatsapp 6391198568
+                                </p>
+
+                                <a type="button" class="btn btn-warning " href="https://forms.gle/gz8jVE6YVdyY1VHM7">REGÍSTRATE AQUÍ</a>                            </div>
+                        </div>
+                        
+                        <img class = "d-block w-100" src={carouselImg3} alt="imagen-alumnos" />
+                </Carousel.Item>
+
             <Carousel.Item>
             <div class="cortina"></div>
                     <div class="convocatoria-ingreso" >
