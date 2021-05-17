@@ -1,0 +1,13 @@
+@media screen and (max-width: 770px)
+{
+    
+    .div-cont > div{
+        width: 100%;
+        
+    }
+
+    .div-cont{
+        flex-direction: column;
+    }
+
+}

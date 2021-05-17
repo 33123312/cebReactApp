@@ -8,7 +8,7 @@ function Historia(){
     return(
         <div className="App">
  
-            <section class= "quienes-somos-section">
+            <section class= "quienes-somos-section gen-sec-grid">
                 <h1>
                     Reseña Histórica
                 </h1>

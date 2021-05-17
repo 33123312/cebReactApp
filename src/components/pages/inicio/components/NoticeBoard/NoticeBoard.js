@@ -9,7 +9,7 @@ import './NoticeBoard.css';
 function NoticeBoard() {
 
     return (
-    <section className="noticeBoard_section"> 
+    <section className="noticeBoard_section gen-sec-grid"> 
         <Carousel>
 
             <Carousel.Item>

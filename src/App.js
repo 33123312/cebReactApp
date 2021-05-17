@@ -9,6 +9,10 @@ import Transporte from './components/pages/transporte/Transporte';
 import Ubicacion from './components/pages/ubicacion/Ubicacion';
 import Acuerdo286 from './components/pages/acuerdo286/Acuerdo286';
 
+import AuxEdu from './components/pages/capacitaciones/auxedu/AuxEdu';
+
+import EnProc from './components/pages/enProceso/EnProceso';
+
 import './App-p.css';
 import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css"
@@ -40,6 +44,8 @@ function App() {
               <Route path="/transporte"  component={Transporte}   />
               <Route path="/ubicacion"  component={Ubicacion}   />
               <Route path="/acuerdo286"  component={Acuerdo286}   />
+              <Route path="/auxEdu"  component={AuxEdu}   />
+              <Route path="/enProgreso"  component={EnProc}   />
             </Switch>
           <Footer/>
         </div>

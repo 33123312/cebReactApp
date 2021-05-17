@@ -32,9 +32,19 @@ function Top() {
 
               <NavDropdown title="Información" id="basic-nav-dropdown">
                 <NavDropdown.Item ><Link to="/fichaje">Aspirantes</Link></NavDropdown.Item>
-                <NavDropdown.Item ><Link to="/capacitaciones">Capacitaciones</Link></NavDropdown.Item>
                 <NavDropdown.Item ><Link to="/transporte">Transporte</Link></NavDropdown.Item>
                 <NavDropdown.Item ><Link to="/acuerdo286">Acuerdo 286</Link></NavDropdown.Item>
+                  
+                <NavDropdown title="Capacitaciones" id="basic-nav-dropdown">
+                  <NavDropdown.Item ><Link to="/auxEdu">Intervención Educativa</Link></NavDropdown.Item>
+                  <NavDropdown.Item ><Link to="/enProgreso">Informática</Link></NavDropdown.Item>
+                  <NavDropdown.Item ><Link to="/enProgreso">Higiene y Salud</Link></NavDropdown.Item>
+                  <NavDropdown.Item ><Link to="/enProgreso">Diseño</Link></NavDropdown.Item>
+                  <NavDropdown.Item ><Link to="/enProgreso">Contabilidad</Link></NavDropdown.Item>
+
+
+                </NavDropdown>
+
               </NavDropdown>
       
                 <NavDropdown title="Nosotros" id="basic-nav-dropdown">

@@ -22,6 +22,7 @@ function Footer(){
                         <ol>
                             <li>Teléfono: 639-472-98-28, 639-132-13-96 </li>
                             <li>Correo: ceb64@dgb.email </li>
+                            <li>Whatsapp: 639-119-85-68</li>
                         </ol> 
                     </div>
                 </div>
@@ -37,7 +38,7 @@ function Footer(){
             </footer>
             <div className = "ubi">
                 <p>Delicias, Chihuahua</p>
-                <p>Guadalupe 108, Flores del Tepeyac</p>
+                <p>Privada de Guadalupe 108</p>
             </div>
         </div>
     );

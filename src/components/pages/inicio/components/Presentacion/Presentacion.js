@@ -6,7 +6,7 @@ import imgInicio from './res/imagen-inicio.jpg';
 function Presentacion(){
     return(
         <div className="App">
-            <section class="presentacion-section">
+            <section class="presentacion-section gen-sec-grid">
 
                 <div class="static-Info">
                     <div class="cuerpo">
@@ -21,7 +21,7 @@ function Presentacion(){
                 <div class="widgets ">
                     
                     <div class="anu generic-anu"> 
-                        <div class="p">Consulta tus calificaciones.</div>
+                        <div class="p">Consulta tus calificaciones</div>
                         <form className = "cosulta-calif" ENCTYPE="multipart/form-data" method="post" action="/boleta/leer.php">
                             <p>No. de Control: </p>
                             <input  TYPE="text" NAME="matri" SIZE="15" VALUE="" maxlength="6" />
@@ -30,7 +30,6 @@ function Presentacion(){
                             <input type="submit" class="p-btn" value= "Consultar" />
                         </form>
                     </div>
-
 
                 </div>
             </section>

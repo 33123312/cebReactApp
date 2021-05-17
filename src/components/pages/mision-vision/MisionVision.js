@@ -7,7 +7,7 @@ import "bootstrap/dist/css/bootstrap.min.css"
 function MisionVision() {
   return (
     <div className="App">
-        <section className="quienes">
+        <section className="quienes gen-sec-grid">
         <h1>¿Quiénes Somos?</h1>
         <p>
         El Centro de Estudios de Bachillerato 6/4, mejor conocido como "El Pedagógico", es una de las mejores instituciones educativas de nivel medio superior en el estado de Chihuahua, lo cual no es algo sorprendente, ya que tanto alumnos como padres de familia conocen el compromiso que tienen todos los miembros del plantel con la educación de los alumnos, pues contamos con el equipo necesario y profesores altamente calificados para garantizar que aquellos que cursen en esta escuela egresarán preparados para continuar con sus estudios; o bien, desempeñar con profesionalismo cualquier labor.

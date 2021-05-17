@@ -5,6 +5,13 @@ body{
 }
 
 section {
-  padding:30px 10%;
   width: 100%;
+  align-content: center;
+  justify-content: center;
+}
+
+.gen-sec-grid{
+    padding: 30px 10%;
+
+
 }
