@@ -1,0 +1,25 @@
+@media screen and (max-width: 770px)
+{
+    
+    .hab-card{
+        margin-bottom: 2rem;
+    }
+
+
+    .car-container-div-info,
+    .media-container-div-info,
+    .hab-card,
+    .div-cont-inf > div iframe
+    {
+        width: 100%;
+    }
+
+    .imagen-fondo-intr{
+        display: none;
+    }
+
+    .subtitle-habs{
+
+        width: 100%;
+        }
+}

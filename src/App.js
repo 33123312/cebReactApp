@@ -10,6 +10,7 @@ import Ubicacion from './components/pages/ubicacion/Ubicacion';
 import Acuerdo286 from './components/pages/acuerdo286/Acuerdo286';
 
 import AuxEdu from './components/pages/capacitaciones/auxedu/AuxEdu';
+import Info from   './components/pages/capacitaciones/info/Info';
 
 import EnProc from './components/pages/enProceso/EnProceso';
 
@@ -45,7 +46,8 @@ function App() {
               <Route path="/ubicacion"  component={Ubicacion}   />
               <Route path="/acuerdo286"  component={Acuerdo286}   />
               <Route path="/auxEdu"  component={AuxEdu}   />
-              <Route path="/enProgreso"  component={EnProc}   />
+              <Route path="/enProgreso"  component={EnProc} />
+              <Route path="/info"  component={Info}   />
             </Switch>
           <Footer/>
         </div>

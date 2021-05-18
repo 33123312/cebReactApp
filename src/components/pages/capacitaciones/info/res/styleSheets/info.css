@@ -1,0 +1,174 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans&family=Noto+Sans+JP:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=KoHo&display=swap');
+
+
+
+.div-cont-inf {
+    width: 90%;
+    display: flex;
+    z-index: 1;
+    flex-wrap: wrap;
+}
+
+.cap-info >section{
+    display: flex;
+
+}
+
+.inf-intr-sec{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #7237e6;
+}
+
+.imagen-fondo-intr{
+    position: absolute;
+    width: 100%;
+}
+
+
+.div-cont-inf > div{
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.media-container-div-info{
+    width: 55%;
+
+}
+
+.car-container-div-info{
+    width: 45%;
+}
+
+
+.div-cont-inf >div >div{
+    width: 80%;
+
+}
+
+.div-cont-inf > div iframe{
+    width: 80%;
+    height: 387px;
+
+}
+
+.cap-int-card >div{
+    width: 70%;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+.cap-int-card-title-info{
+    font-size:4rem;
+    margin-bottom: 3rem;
+    color: #feca57;
+    font-family: 'Bebas Neue', cursive;
+}
+
+
+
+
+.subtitle{
+    font-size:2rem;
+    margin-bottom: 3rem;
+    color: black;
+    font-family: 'KoHo', sans-serif;
+
+}
+
+.subtitle-habs{
+font-size:3rem;
+margin-bottom: 8rem;
+margin-top: 4rem;
+width: 70%;
+}
+
+.general-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cap-int-card-text-info{
+    font-size:1.1rem;
+    color: white;
+
+}
+
+.imagen-hojas{
+    width: 90%;
+
+}
+
+.cap-int-card-text-info-gral{
+
+    color:black;
+    font-size:1.1rem;
+}
+
+.habs{
+    background-color: white;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.habs-cards-cont{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@500&display=swap');
+.habs h2{
+    text-align: center;
+    font-family: 'Prompt', sans-serif;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.title-marked-hab{
+    color: #4834d4;
+}
+
+.hab-card{
+    width: 20%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.hab-card img{
+    width: 90%;
+}
+
+.hab-card h5{
+    font-size: 1.2rem;
+    text-align: center;
+    font-family: 'KoHo', sans-serif;
+    font-weight: bold;
+
+}
+
+.hab-card p {
+
+    text-align: center;
+    font-size: 0.8rem;
+    color: rgb(57, 57, 57);
+
+    
+    
+}
+
+
+
