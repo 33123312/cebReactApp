@@ -1,0 +1,159 @@
+
+.intr-salud-sec{
+    justify-content: left;
+
+}
+
+.imagen-fondo-intr-salud{
+    width: 100%;
+
+}
+
+.intr-card-salud{
+    width: 30%;
+    z-index: 1;
+    position: absolute;
+    margin-left: 12rem;
+
+
+}
+
+.intr-salud-sec{
+
+    background-color: white
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&display=swap');
+
+.intr-card-salud-title{
+    
+
+    font-size: 3rem;
+    color: black;
+    margin-bottom: 2rem!important;
+    font-family: 'Merriweather', serif;
+
+}
+
+.res-title-intr-salud{
+
+    margin-top: 1rem;
+    color: #e74c3c;
+    font-family: 'Merriweather', serif;
+
+}
+
+.intr-card-salud-text{
+    font-size: 1.3rem;
+}
+
+
+
+.intr-card-salud-text{
+    color: rgb(71, 71, 71);
+}
+
+.video-salud{
+    width: 80%;
+
+}
+
+.video-salud-section{
+    background-color: rgb(251, 247, 247);
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=KoHo&display=swap');
+
+.div-sec{
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+    background-color: white;
+}
+
+.subT-card{
+    font-family: 'KoHo', sans-serif;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+
+
+}
+
+.text-card{
+    font-size: 1.2rem;
+    color: rgb(64, 64, 64);
+}
+
+.div-panels-cont{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.div-panels-cont > div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.media-div-cont{
+    width: 55%;
+}
+
+.card-div-cont{
+    width: 45%;
+
+}
+
+.cap-card{
+    width: 80%;
+}
+
+.img-cap-div{
+    width: 50%;
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:wght@300&display=swap');
+.sub-card-salud{
+    font-family: 'Newsreader', serif;
+    color: #953b31;
+}
+
+.epidem-sec{
+    background-color: #f7f1e5;
+}
+
+.nutri-sec{
+    background-color: #ffffff;
+}
+
+.public-sec{
+    background-color: #eeeff4;
+
+}
+
+.mat-cap-salud{
+    background-color: #f7f1e5;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+
+}
+
+.disc-salud-cont{
+    width: 70%;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.disc-salud-tit{
+    font-size: 4rem;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.disc-salud-tit-res{
+    color: #953b31;
+}

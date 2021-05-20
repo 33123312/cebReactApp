@@ -16,6 +16,7 @@ function Info(){
         <div>
             <section className="inf-intr-sec">
             <img src={fondoIntr}  className = "imagen-fondo-intr"/>
+
                 <div className = "div-cont-inf ">
 
                     
@@ -171,8 +172,6 @@ function Info(){
                             </div>
 
                         </div>
-
-                        
 
                     </div>
 

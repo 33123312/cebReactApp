@@ -17,9 +17,6 @@
 }
 
 .inf-intr-sec{
-    display: flex;
-    align-items: center;
-    justify-content: center;
     background-color: #7237e6;
 }
 
@@ -67,7 +64,7 @@
 
 
 .cap-int-card-title-info{
-    font-size:4rem;
+    font-size:4.5rem;
     margin-bottom: 3rem;
     color: #feca57;
     font-family: 'Bebas Neue', cursive;
@@ -98,7 +95,7 @@ width: 70%;
 }
 
 .cap-int-card-text-info{
-    font-size:1.1rem;
+    font-size:1.3rem;
     color: white;
 
 }

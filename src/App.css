@@ -1,4 +1,8 @@
 
+html{
+
+  font-size: 1vw;
+}
 
 body{
   background-color:#eef5ff;
@@ -6,12 +10,12 @@ body{
 
 section {
   width: 100%;
-  align-content: center;
+  display: flex;
+  align-items: center;
   justify-content: center;
 }
 
 .gen-sec-grid{
     padding: 30px 10%;
-
 
 }

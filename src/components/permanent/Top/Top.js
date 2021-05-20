@@ -38,7 +38,7 @@ function Top() {
                 <NavDropdown title="Capacitaciones" id="basic-nav-dropdown">
                   <NavDropdown.Item ><Link to="/auxEdu">Intervención Educativa</Link></NavDropdown.Item>
                   <NavDropdown.Item ><Link to="/info">Informática</Link></NavDropdown.Item>
-                  <NavDropdown.Item ><Link to="/enProgreso">Higiene y Salud</Link></NavDropdown.Item>
+                  <NavDropdown.Item ><Link to="/salud">Higiene y Salud</Link></NavDropdown.Item>
                   <NavDropdown.Item ><Link to="/enProgreso">Diseño</Link></NavDropdown.Item>
                   <NavDropdown.Item ><Link to="/enProgreso">Contabilidad</Link></NavDropdown.Item>
 

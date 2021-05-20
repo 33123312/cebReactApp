@@ -11,6 +11,8 @@ import Acuerdo286 from './components/pages/acuerdo286/Acuerdo286';
 
 import AuxEdu from './components/pages/capacitaciones/auxedu/AuxEdu';
 import Info from   './components/pages/capacitaciones/info/Info';
+import salud from   './components/pages/capacitaciones/salud/Salud';
+
 
 import EnProc from './components/pages/enProceso/EnProceso';
 
@@ -47,7 +49,8 @@ function App() {
               <Route path="/acuerdo286"  component={Acuerdo286}   />
               <Route path="/auxEdu"  component={AuxEdu}   />
               <Route path="/enProgreso"  component={EnProc} />
-              <Route path="/info"  component={Info}   />
+              <Route path="/info"  component={Info} />
+              <Route path="/salud"  component={salud}/>
             </Switch>
           <Footer/>
         </div>

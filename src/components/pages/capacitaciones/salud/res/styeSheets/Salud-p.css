@@ -1,0 +1,47 @@
+@media screen and (max-width: 770px){
+    
+    .imagen-fondo-intr-salud{
+        display: none;
+    }
+
+    .div-panels-cont > div{
+        width: 100%;
+    }
+
+    .intr-card-salud{
+        width: 90%;
+        margin-left: 0;
+        position:static;
+    }
+
+    .intr-salud-sec{
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+        background-color: white
+    }
+
+    .intr-salud-sec{
+        justify-content: center;
+    
+    }
+
+
+    .img-cap-div{
+        width: 95%;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    
+    }
+
+    .disc-salud-cont{
+        width: 100%;
+        
+    }
+
+    .disc-salud-tit{
+        font-size: 3rem!important;
+    }
+
+
+}
+
