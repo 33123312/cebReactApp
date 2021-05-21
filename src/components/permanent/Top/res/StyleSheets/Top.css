@@ -43,5 +43,18 @@ header{
     background-color: white;
 }
 
+.dropdown-item >a,
+.dropdown-menu >.dropdown {
+    width: 100%;
+    padding-left: 1.25rem;
+    padding-top: .7rem;
+    padding-bottom:.7rem;
+    display: block;
+    padding-right: 1.25rem;
+}
+
+.dropdown-item {
+    padding:0!important;
+}
 
 
