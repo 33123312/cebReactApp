@@ -30,7 +30,7 @@ function Info(){
 
                     <div className = "car-container-div-info intr-card">
                         <div>
-                            <h2 className="cap-int-card-title-info">Domina el mundo de la computación en <p className="cap-int-card-title-info-rem">Informática</p></h2>
+                            <h2 className="cap-int-card-title-info">Domina las tecnologías del hoy y el mañana en <p className="cap-int-card-title-info-rem">Informática</p></h2>
                             
                             <p className="cap-int-card-text-info">
                             

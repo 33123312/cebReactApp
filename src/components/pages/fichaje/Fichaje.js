@@ -19,6 +19,7 @@ function Fichaje(){
         <div className="App">
  
             <section class= "quienes-somos-section">
+                <div>
                 <h1>
                     El Pedagógico continua con su entrega de
                     fichas para el examen de admisión 2021.
@@ -90,9 +91,11 @@ function Fichaje(){
                         </p>
                         <h3>¡Orgullosamente CEB 6/4!</h3>     
                 </div>
+                </div>
             </section>
 
             <section class= "gallery-section">
+                <div>
                 <div>
                     <h2>Galería</h2>
 
@@ -129,6 +132,7 @@ function Fichaje(){
                         </Carousel.Item>
                     </Carousel>
 
+                </div>
                 </div>
             </section>
         </div>

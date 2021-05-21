@@ -6,6 +6,7 @@ function Acuerdo286(){
 
     return (           
          <section class= "quienes-somos-section">
+    <div>
     <h1>
         En el Centro de Estudios de Bachillerato se apoya en el trámite del certificado por
         Acuerdo 286.
@@ -52,6 +53,7 @@ function Acuerdo286(){
             <p>
                 Cualquier duda por favor comunicarse al correo: acuerdo286.ceb64@dgb.sems.gob.mx
             </p>
+    </div>
     </div>
 </section>)
 

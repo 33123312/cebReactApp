@@ -1,0 +1,78 @@
+
+
+.intr-sec-cont{
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+
+    background: #007991;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #78ffd6, #007991);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #78ffd6, #007991); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+
+
+
+}
+
+
+
+.video-conta{
+    width:80%;
+
+}
+
+
+.intr-card-cont-title{
+
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    color: #262e0e;
+     
+}
+
+.intr-card-cont-text{
+    font-size: 1.3rem;
+    color: white;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+
+.res-title-intr-cont{
+    font-size: 6rem;
+    color: #A3CB38;
+    font-family: 'Oswald', sans-serif;   
+}
+
+
+.sub-card-cont{
+    margin-bottom: 2rem;
+
+    color:teal;
+
+}
+
+.admon-sec{
+    background-color: white;
+}
+
+.materias-sec-cont{
+    padding-top: 10rem;
+    padding-bottom: 10rem ;
+    background-color: rgb(247, 247, 247);
+}
+
+.materias-cont-cont{
+    width: 70%;
+}
+
+.mater-cont-tit-pres{
+    text-align: center;
+    color: #262e0e;
+    font-size: 4rem;
+}
+
+.mater-cont-tit-pres b{
+    color: teal!important;
+}

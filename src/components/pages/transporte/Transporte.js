@@ -4,6 +4,7 @@ import './res/StylesSheets/Transporte.css';
 function Top() {
     return (
       <section className="transporte-tables gen-sec-grid">
+        <div>
             <p>
                 En estas tablas, se muestran las rutas que siguen los autobuses al servicio del plantel, así como sus respectivos horarios.
             </p>
@@ -160,6 +161,7 @@ function Top() {
             
             
         </table>
+        </div>
     </section>  
     );
 }

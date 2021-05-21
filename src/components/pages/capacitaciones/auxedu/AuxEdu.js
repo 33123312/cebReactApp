@@ -24,7 +24,7 @@ function AuxEdu(){
                                 En esta capacitación,
                                 aprenderás los principios para introducirte al mundo de la docencia, conocerás técnicas sociales para fomentar el aprendizaje y desarrollo de habilidades en otros,
                                 así como resolución de conflictos y control emocional, todo esto mediante dinámicas e interactivas clases al igual que con prácticas en diferentes ambientes educativos. 
-                                Al final de la capacitación tendrás lo necesario para desempeñarte con profesionalidad en el area de docencia que prefieras.
+                                Al final de la capacitación tendrás lo necesario para desempeñarte con profesionalidad en el área de docencia que prefieras.
                             </p>
                         </div>
 
@@ -114,18 +114,13 @@ function AuxEdu(){
                             </h2>
 
                             <p className="cap-int-card-text">
-                                Durante el curso, visitareemos diferentes instituciones educativas para que puedas interactuar 
-                                diréctamente con los estudiantes, así podrás entender su desenvolvimiento como seres sociales y
-                                serás capaz desarrollar estrategias educativas para guiarlos y formarlos.
+                            Durante el curso, visitaremos diferentes instituciones educativas para que puedas interactuar directamente con los estudiantes, así podrás entender su desenvolvimiento como seres sociales y serás capaz desarrollar estrategias educativas para guiarlos y formarlos. 
 
                             
                             </p>
                         </div>
 
                     </div>
-
-                                    
-   
 
                 </div>
 
@@ -143,9 +138,9 @@ function AuxEdu(){
                             <p className="cap-int-card-text">
                                 Aunque no vayas a estudiar una carrera que tenga que ver con la pedagogía, esta capacitación aún es muy útil, 
                                 pues la combinación de los conocimientos adquiridos esta capacitación junto con los de tus estudios universitarios, 
-                                te abrirán puertas a ejercer como docente en el area en el que estés especializado, de forma que tu mercado laboral 
+                                te abrirán puertas a ejercer como docente en el área en el que estés especializado, de forma que tu mercado laboral 
                                 será mayor al que tendrías de no haber tomado esta capacitación, ya que podrás trabajar tanto ejerciendo tu carrera como 
-                                enseñandola.
+                                enseñándola.
 
 
                             

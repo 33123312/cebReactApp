@@ -1,0 +1,33 @@
+@media screen and (max-width: 770px)
+{
+    
+
+    .materias-cont-cont{
+        width: 90%;
+    }
+    
+.mater-cont-tit-pres{
+    text-align: center;
+    color: #262e0e;
+    font-size: 3rem;
+    
+}
+
+.res-title-intr-cont{
+    font-size: 2.5rem;
+}
+
+.intr-card-cont-title{
+
+    font-size: 2rem;
+
+
+    
+}
+
+.cap-card{
+    margin-top: 4rem;
+}
+
+
+}

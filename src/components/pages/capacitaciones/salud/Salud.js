@@ -69,9 +69,9 @@ function Salud(){
                             <div className ="text-card">
                             Comprende el funcionamiento de los complejos sistemas anatómicos que ahora mismo te mantienen vivo, 
 
-en anatomía, estudiarás las partes que componen al cuerpo humano, su cohesión con otras partes y 
+                            en anatomía, estudiarás las partes que componen al cuerpo humano, su cohesión con otras partes y 
 
-su función en los diferentes aparatos y sistemas que nos forman. 
+                            su función en los diferentes aparatos y sistemas que nos forman. 
                             </div>
                         </div>
                 </div>
@@ -86,13 +86,10 @@ su función en los diferentes aparatos y sistemas que nos forman.
                             <h4 className="subT-card sub-card-salud">Epidemilogía</h4>
 
                             <div className ="text-card">
-                            En epidemiología aprenderás a identificar la frecuencia y distribución de los 
-
-factores físicos, biológicos, sociales, culturales y de comportamiento que amenazan  
-
-la salud de la población, de forma que tu objeto de estudio será tanto de tipo 
-
-biológico como social. 
+                                En epidemiología aprenderás a identificar la frecuencia y distribución de los 
+                                factores físicos, biológicos, sociales, culturales y de comportamiento que amenazan  
+                                la salud de la población, de forma que tu objeto de estudio será tanto de tipo 
+                                biológico como social. 
                             </div>
                         </div>
                     </div>

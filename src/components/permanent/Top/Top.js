@@ -40,7 +40,7 @@ function Top() {
                   <NavDropdown.Item ><Link to="/info">Informática</Link></NavDropdown.Item>
                   <NavDropdown.Item ><Link to="/salud">Higiene y Salud</Link></NavDropdown.Item>
                   <NavDropdown.Item ><Link to="/enProgreso">Diseño</Link></NavDropdown.Item>
-                  <NavDropdown.Item ><Link to="/enProgreso">Contabilidad</Link></NavDropdown.Item>
+                  <NavDropdown.Item ><Link to="/conta">Contabilidad</Link></NavDropdown.Item>
 
 
                 </NavDropdown>
