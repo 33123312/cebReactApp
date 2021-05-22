@@ -18,7 +18,7 @@ function AuxEdu(){
                         <div>
                             <h2 className="cap-int-card-title">Intervención Educativa</h2>
                             <p className="cap-int-card-text">
-                                ¡Desarrolla tus habilidaades pedagógicas y conviértete en un profesional de la docencia!
+                                ¡Desarrolla tus habilidades pedagógicas y conviértete en un profesional de la docencia!
                             </p>
                             <p className="cap-int-card-text">
                                 En esta capacitación,

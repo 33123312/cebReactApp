@@ -2,6 +2,8 @@ import React, { } from 'react';
 
 
 import './res/StyleSheets/MisionVision.css';
+import './res/StyleSheets/MisionVision-p.css';
+
 import "bootstrap/dist/css/bootstrap.min.css"
 
 function MisionVision() {

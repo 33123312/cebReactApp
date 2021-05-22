@@ -13,6 +13,8 @@ import AuxEdu from './components/pages/capacitaciones/auxedu/AuxEdu';
 import Info from   './components/pages/capacitaciones/info/Info';
 import salud from   './components/pages/capacitaciones/salud/Salud';
 import conta from   './components/pages/capacitaciones/conta/Conta';
+import diseno from   './components/pages/capacitaciones/diseno/Diseno';
+
 
 
 import EnProc from './components/pages/enProceso/EnProceso';
@@ -53,6 +55,7 @@ function App() {
               <Route path="/info"  component={Info} />
               <Route path="/salud"  component={salud}/>
               <Route path="/conta"  component={conta}/>
+              <Route path="/diseno"  component={diseno}/>
             </Switch>
           <Footer/>
         </div>

@@ -9,6 +9,8 @@
     display: flex;
     z-index: 1;
     flex-wrap: wrap;
+    position: absolute;
+
 }
 
 .cap-info >section{
@@ -19,7 +21,6 @@
 
 
 .imagen-fondo-intr{
-    position: absolute;
     width: 100%;
 }
 

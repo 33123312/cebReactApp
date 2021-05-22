@@ -2,6 +2,11 @@
 .ubicacion-section{
     background-color: white;
     display:flex;
-    justify-content: space-around;
+    justify-content:space-between;
+
 }
 
+.google-maps{
+    width: 65%;
+    
+}

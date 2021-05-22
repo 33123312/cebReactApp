@@ -6,6 +6,7 @@
 
 .mision-vision h2{
     margin-bottom: 30px;
+    flex-wrap: wrap;
 }
 
 .mision-vision div{

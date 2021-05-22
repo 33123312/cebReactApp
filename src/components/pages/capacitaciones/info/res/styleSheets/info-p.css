@@ -28,4 +28,7 @@
         .inf-intr-sec{
             background-color: #7237e6;
         }
+        .div-cont-inf{
+            position: static;
+        }
 }

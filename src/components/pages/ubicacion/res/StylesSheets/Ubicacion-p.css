@@ -1,0 +1,16 @@
+@media screen and (max-width: 770px)
+{
+    
+    .ubicacion-section{
+        flex-direction: column;
+    }
+
+    .google-maps{
+        width: 95%;
+        margin-bottom:1rem ;
+        
+    }
+
+
+}
+

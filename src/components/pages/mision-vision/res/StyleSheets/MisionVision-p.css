@@ -1,0 +1,13 @@
+@media screen and (max-width: 770px)
+{
+    
+    .mision-vision div{
+        width: 100%!important;
+    }
+
+    .mision-vision {
+        flex-direction: column;
+    }
+    
+
+}
