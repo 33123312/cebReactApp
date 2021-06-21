@@ -18,7 +18,7 @@ function Fichaje(){
     return(
         <div className="App">
  
-            <section class= "quienes-somos-section">
+            <section className= "quienes-somos-section">
                 <div>
                 <h1>
                     El Pedagógico continua con su entrega de
@@ -61,7 +61,7 @@ function Fichaje(){
                     <p>
                         Algunas de las principales fortalezas que distinguen al pedagógico son:
                     </p>
-                    <div class="listaaa">
+                    <div className="listaaa">
                         <ul>
                             <li>Excelentes resultados académicos</li>
                             <li>Alumnos con interés por estudiar</li>
@@ -94,7 +94,7 @@ function Fichaje(){
                 </div>
             </section>
 
-            <section class= "gallery-section">
+            <section className= "gallery-section">
                 <div>
                 <div>
                     <h2>Galería</h2>
@@ -102,32 +102,32 @@ function Fichaje(){
                     <Carousel className ="galeria">
                         <Carousel.Item>
                             <div>
-                                <img class="d-block w-75" src={carousel1} alt="Second slide" />
+                                <img className="d-block w-75" src={carousel1} alt="Second slide" />
                             </div>
                         </Carousel.Item>
                         <Carousel.Item>
                             <div>
-                                <img class="d-block w-75" src={carousel2} alt="Second slide" />
+                                <img className="d-block w-75" src={carousel2} alt="Second slide" />
                             </div>
                         </Carousel.Item>
                         <Carousel.Item>
                             <div>
-                                <img class="d-block w-75" src={carousel3} alt="Second slide" />
+                                <img className="d-block w-75" src={carousel3} alt="Second slide" />
                             </div>
                         </Carousel.Item>
                         <Carousel.Item>
                             <div>
-                                <img class="d-block w-75" src={carousel4} alt="Second slide" />
+                                <img className="d-block w-75" src={carousel4} alt="Second slide" />
                             </div>
                         </Carousel.Item>
                         <Carousel.Item>
                             <div>
-                                <img class="d-block w-75" src={carousel5} alt="Second slide" />
+                                <img className="d-block w-75" src={carousel5} alt="Second slide" />
                             </div>
                         </Carousel.Item>
                         <Carousel.Item>
                             <div>
-                                <img class="d-block w-75" src={carousel6} alt="Second slide" />
+                                <img className="d-block w-75" src={carousel6} alt="Second slide" />
                             </div>
                         </Carousel.Item>
                     </Carousel>

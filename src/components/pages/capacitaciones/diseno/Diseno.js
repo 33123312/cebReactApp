@@ -2,7 +2,7 @@ import React from "react"
 import "./res/styleSheets/Diseno.css"
 import "./res/styleSheets/Diseno-p.css"
 
-import fondo from "./res/images/fondo-diseño.jpg"
+import fondo from "./res/images/fondo-diseno.jpg"
 
 function Diseno(){
     return(

@@ -50,6 +50,12 @@ function Acuerdo286(){
             link desde donde los puede descargar: <a href= "https://www.dgb.sep.gob.mx/tramites/certificacion-en-el-marco-del-acuerdo-secretarial-286.php">Formatos de Solicitud y de Pago de Derechos </a>
         </p>
        
+        <p>
+        Si usted ya realizó su trámite y quiere conocer si su certificado ya se encuentra en nuestro plantel, 
+        puede realizar su consulta dando click en el siguiente Link: <a href="https://docs.google.com/spreadsheets/d/1fzWiuE9uAN8iu3ZEwiNsFaoW2G8smiSsyuLJXCbyCzc/edit?usp=sharing">
+            https://docs.google.com/spreadsheets/d/1fzWiuE9uAN8iu3ZEwiNsFaoW2G8smiSsyuLJXCbyCzc/edit?usp=sharing
+        </a>
+        </p>
             <p>
                 Cualquier duda por favor comunicarse al correo: acuerdo286.ceb64@dgb.sems.gob.mx
             </p>
