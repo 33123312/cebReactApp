@@ -9,6 +9,8 @@ import Transporte from './components/pages/transporte/Transporte';
 import Ubicacion from './components/pages/ubicacion/Ubicacion';
 import Acuerdo286 from './components/pages/acuerdo286/Acuerdo286';
 import admision from  './components/pages/admision/Admision';
+import admisionInfo from  './components/pages/admision-info/Admision';
+import admisionResult from  './components/pages/admision-result/Admision';
 
 import AuxEdu from './components/pages/capacitaciones/auxedu/AuxEdu';
 import Info from   './components/pages/capacitaciones/info/Info';
@@ -59,6 +61,8 @@ function App() {
               <Route path="/conta"  component={conta}/>
               <Route path="/diseno"  component={diseno}/>
               <Route path="/admision"  component={admision}/>
+              <Route path="/admision-info"  component={admisionInfo}/>
+              <Route path="/admision-result"  component={admisionResult}/>
             </Switch>
           <Footer/>
         </div>

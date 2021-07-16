@@ -45,6 +45,15 @@
 
 }
 
+.banner_buttons_continer{
+    display: flex;
+
+}
+
+.banner_buttons_continer a{
+    margin-right: 1rem;
+}
+
 
 .convocatoria-ingreso-card h2{
     color: #fbc531;

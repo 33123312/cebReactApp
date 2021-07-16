@@ -39,9 +39,10 @@ function Salud(){
 
             </section>
 
+
             <section className="video-salud-section">
                 <iframe className="video-salud" height="538" 
-                src="https://www.youtube.com/embed/O6rB0eTQXzI" title="YouTube video player" 
+                src="https://www.youtube.com/embed/L1fOrgNjoWM" title="YouTube video player" 
                 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
                 allowfullscreen></iframe>
 

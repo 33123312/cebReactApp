@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap');
+
+.titular{
+
+  background-color: hsl(337, 100%, 97%);
+  text-align: center;
+  margin-top: 30px;
+}
+
+.listaaa{
+  list-style: inside;
+
+}
+
+.quienes-somos-section h1{
+    font-size: 90;
+    font-family: 'Lato', sans-serif;
+    color: #474747;
+    padding-bottom:30px;
+}
+
+.quienes-somos-section{
+    padding:30px 10%;
+    background-color: white;
+    padding-right: 25%;
+}
+.galeria .carousel-item >div{
+  width: 100%;
+  height: 600px;
+  background-color: #454444;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  }  
+
+.gallery-section{
+  padding-top:5px;
+  padding-bottom: 30px;
+
+}
+
+
+
