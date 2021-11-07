@@ -18,9 +18,6 @@ import salud from   './components/pages/capacitaciones/salud/Salud';
 import conta from   './components/pages/capacitaciones/conta/Conta';
 import diseno from   './components/pages/capacitaciones/diseno/Diseno';
 
-
-
-
 import EnProc from './components/pages/enProceso/EnProceso';
 
 import './App-p.css';

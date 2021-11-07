@@ -6,6 +6,7 @@
     justify-content:space-between;
     align-items: baseline;
     height: 100%;
+    z-index: 1;
 
 }
 
@@ -24,7 +25,7 @@
 @media screen and (max-width : 770px)
 {
     .noticeBoard_section{
-        padding:0px;
+        padding: 0px !important;;
     }
 
     .convocatoria-ingreso-card h2{
@@ -87,13 +88,9 @@
 .carousel-control-next span{
     background-color: black;
 }
-.cortina{
-height: 100%;
-width: 100%;
-background-color: black;
-opacity: 0.75;
-position: absolute;
 
-}
+.car-img{
+    filter: brightness(30%);
+    z-index: 0;}
 
 
