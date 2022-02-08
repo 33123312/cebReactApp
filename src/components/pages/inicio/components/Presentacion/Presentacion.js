@@ -22,11 +22,11 @@ function Presentacion(){
                     
                     <div class="anu generic-anu"> 
                         <div class="p">Consulta tus calificaciones</div>
-                        <form className = "cosulta-calif" ENCTYPE="multipart/form-data" method="post" action="/boleta/leer.php">
+                        <form className = "cosulta-calif" encType="multipart/form-data" method="post" action="/boleta/leer.php">
                             <p>No. de Control: </p>
-                            <input  TYPE="text" NAME="matri" SIZE="15" VALUE="" maxlength="6" />
+                            <input  type="text" NAME="matri" SIZE="15" VALUE="" maxlength="6" />
                             <p>Contraseña:</p>
-                            <input TYPE="password" NAME="clave" SIZE="15" VALUE="" maxlength="6" /> 
+                            <input type="password" NAME="clave" SIZE="15" VALUE="" maxlength="6" /> 
                             <input type="submit" class="p-btn" value= "Consultar" />
                         </form>
                     </div>

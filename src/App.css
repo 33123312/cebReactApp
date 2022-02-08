@@ -10,12 +10,19 @@ body{
 
 section {
   width: 100%;
+
+}
+
+.section-flex{
   display: flex;
-  align-items: center;
   justify-content: center;
 }
 
 .gen-sec-grid{
     padding: 30px 10%;
 
+}
+
+.boleta-title{
+  color:#34495e;
 }

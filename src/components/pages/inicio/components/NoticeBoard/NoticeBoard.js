@@ -6,9 +6,6 @@ import carouselImg3 from './images/imagen-prov.jpg';
 import NewBan from "./New"
 
 import './NoticeBoard.css';
-import{ Link } from 'react-router-dom';
-
-
 
 function NoticeBoard() {
     
@@ -31,7 +28,7 @@ function NoticeBoard() {
                 <NewBan 
                     titulo = "Información de grupos y calendario de inscripción para los alumnos de nuevo ingreso"
                     texto = "Si eres de nuevo ingreso, puedes consultar tanto tu grupo como tu fecha y hora de inscripción en los siguientes enlaces:"
-                    img = {carouselImg3}
+                    img = {carouselImg1}
                     buttons = {
                         [{url:"https://www.ceb64.com/grupos.pdf",
                         txt:"Grupos de 1er Semestre"},

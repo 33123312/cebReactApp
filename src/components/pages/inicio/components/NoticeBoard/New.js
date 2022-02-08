@@ -6,8 +6,8 @@ function New ({titulo,texto,img,buttons}){
     console.log(buttons)
     return (
     <div>
-        <div class="convocatoria-ingreso" >
-            <div class="convocatoria-ingreso-card">
+        <div className="convocatoria-ingreso" >
+            <div className="convocatoria-ingreso-card">
                 <h2> 
                     {titulo}
                 </h2>
@@ -20,7 +20,7 @@ function New ({titulo,texto,img,buttons}){
             </div>
         </div>
         
-        <img class = "d-block w-100 car-img" src={img} alt="imagen-alumnos" />
+        <img className = "d-block w-100 car-img" src={img} alt="imagen-alumnos" />
 
     </div>
     )
@@ -40,11 +40,11 @@ function createButtons(buttons){
 }
 
 function createbutton1 (specs){
-    return  <Link to= {specs.link} style={ {color:"black"}}><a type="button" class="btn btn-warning btn-lg" >{specs.txt}</a></Link>
+    return  <Link to= {specs.link} style={ {color:"black"}}><a type="button" className="btn btn-warning btn-lg" >{specs.txt}</a></Link>
 }
 
 function createbutton (specs){
-    return (<a href = {specs.url} download type="button" class="btn btn-warning btn-lg " >{specs.txt}</a>)
+    return (<a href = {specs.url} download type="button" className="btn btn-warning btn-lg " >{specs.txt}</a>)
 }
 
 export default New

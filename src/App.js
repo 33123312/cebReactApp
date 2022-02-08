@@ -18,6 +18,8 @@ import salud from   './components/pages/capacitaciones/salud/Salud';
 import conta from   './components/pages/capacitaciones/conta/Conta';
 import diseno from   './components/pages/capacitaciones/diseno/Diseno';
 
+import Boleta from './components/userTem/boleta/boleta';
+
 import EnProc from './components/pages/enProceso/EnProceso';
 
 import './App-p.css';
@@ -25,18 +27,9 @@ import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css"
 import{ BrowserRouter as Router,Switch,Route } from 'react-router-dom';
 
-import axios from "axios";
 
 
 function App() {
-
-  axios.get('/apiPrueba').then(
-    (data) =>{console.log(data)}
-
-  ).catch(function(error) {
-    console.log(error)
-})
-
 
   return (
     <div className="App">
@@ -60,6 +53,7 @@ function App() {
               <Route path="/admision"  component={admision}/>
               <Route path="/admision-info"  component={admisionInfo}/>
               <Route path="/admision-result"  component={admisionResult}/>
+              <Route path="/boleta"  component={Boleta}/>
             </Switch>
           <Footer/>
         </div>

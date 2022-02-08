@@ -2,10 +2,14 @@ import React from 'react';
 
 import logoCeb from './res/images/logoCeb.png';
 import Navbar from 'react-bootstrap/Navbar';
+import Container from 'react-bootstrap/Container';
+
 import Nav from 'react-bootstrap/Nav';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import './res/StyleSheets/Top.css';
 import './res/StyleSheets/iconsStyles.css';
+
+import LoginArea from "./components/loginArea"
 
 import{ Link } from 'react-router-dom';
 
@@ -13,19 +17,20 @@ function Top() {
   return (
     <header className="Top">
 
-        <Navbar expand="lg" className= "contNav py-2 " bg="light" >
+      <Navbar  expand="lg" className= "contNav py-2 " bg="light" >
+      <Container>
         <Navbar.Brand href="/">
           <img src={logoCeb} className="logoCeb" alt= "logo" />
         </Navbar.Brand>
 
-        <Navbar.Toggle aria-controls="responsive-navbar-nav" p-x  />
-        <Navbar.Collapse id="basic-navbar-nav">
-             <Nav className="ml-auto">
+        <Navbar.Toggle aria-controls="responsive-navbar-nav"/>
+        <Navbar.Collapse id="responsive-navbar-nav">
+             <Nav className="me-auto">
                 <Nav.Link href="/" className="text-primary" >Inicio</Nav.Link>
 
                 <NavDropdown title="Consultas" id="basic-nav-dropdown">
                   <NavDropdown.Item href="https://docs.google.com/forms/d/e/1FAIpQLScwfcRbHA9dXHS8wiS70wKPGHAFT_VTpGwIN39cMabJhMDAdw/viewform" >
-                      <a>Constancias</a></NavDropdown.Item>
+                      <a href='#'>Constancias</a></NavDropdown.Item>
                   <NavDropdown.Item ><Link to="/">Boleta</Link></NavDropdown.Item>
                 
               </NavDropdown>  
@@ -53,13 +58,16 @@ function Top() {
                   <NavDropdown.Item ><Link to="/ubicacion">Ubicación</Link></NavDropdown.Item>
                 </NavDropdown>
       
-
-
-
-
              </Nav>
-             </Navbar.Collapse>
-        </Navbar>
+             <Nav>
+
+              <LoginArea/>
+              
+
+            </Nav>
+          </Navbar.Collapse>
+          </Container>
+      </Navbar>
 
     </header>
 

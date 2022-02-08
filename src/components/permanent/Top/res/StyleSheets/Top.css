@@ -2,9 +2,9 @@
 
 
 .logoCeb {
-    float: left;
-    width: 40%;
-
+    width: 11rem;
+    margin-right: 1rem;
+    
 }
 
 .navbar{
@@ -19,6 +19,14 @@ header{
     margin-bottom: 50px;
 }
 
+@media (min-width: 1200px)
+{
+    
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: none;
+    }
+}
+
 
 
 
@@ -28,6 +36,10 @@ header{
     padding:10px 20px!important;
     font-family: 'Montserrat', sans-serif!important;
 
+}
+
+.me-auto {
+    margin-right: auto!important;
 }
 
 .dropdown-item a{

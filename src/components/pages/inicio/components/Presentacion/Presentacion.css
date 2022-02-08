@@ -15,25 +15,25 @@
 }
 
 .generic-anu{
-    font-size:14;
+    font-size:20;
     color:#454444;
     background:#eef5ff;
-    border-radius: 3px;
+    border-radius: 1px;
     overflow:hidden;
     display: flex;
-    justify-content: center;
     flex-direction: column;
     margin-bottom: 15px;
+    border: solid 1px #d2d8e0;
 
 }
 
 .p {
-    text-align: center;
-    color:white;
+    color:#eff7ff;
     background:#2C4C66;
     border-radius: 2px 2px 0px 0px;
-    padding: 5px;
-    font-size: 17;
+    padding: 20px;
+    font-size: 15pt;
+    font-weight: bold;
 }	
 
 /*boton calif=====================================================*/
